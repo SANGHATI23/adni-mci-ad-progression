@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+data/raw/adni/*
+!data/raw/adni/.gitkeep
+
+.DS_Store

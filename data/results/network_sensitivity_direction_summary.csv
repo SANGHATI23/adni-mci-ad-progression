@@ -1,0 +1,10 @@
+edge,times_tested,mean_difference,direction_consistency,dominant_direction,min_raw_p,min_fdr_p,any_fdr_significant
+delta_LENTORHIN__delta_LMIDTEMP,3,-0.1564952377360065,1.0,lower_in_pMCI,0.104,0.191,False
+delta_RENTORHIN__delta_LMIDTEMP,3,-0.17884359616139778,1.0,lower_in_pMCI,0.117,0.191,False
+delta_LHIPPOC__delta_VENTRICLES,3,0.1663587883176433,1.0,higher_in_pMCI,0.133,0.191,False
+delta_LENTORHIN__delta_VENTRICLES,3,0.1288267456767094,1.0,higher_in_pMCI,0.169,0.191,False
+delta_LHIPPOC__delta_RHIPPOC,3,0.1274006242249731,1.0,higher_in_pMCI,0.191,0.191,False
+delta_RHIPPOC__delta_LENTORHIN,1,0.08501209138217991,1.0,higher_in_pMCI,0.373,0.429,False
+delta_RENTORHIN__delta_RMIDTEMP,1,-0.08255828421804035,1.0,lower_in_pMCI,0.39,0.429,False
+delta_LHIPPOC__delta_LMIDTEMP,2,-0.11092998083718819,1.0,lower_in_pMCI,0.403,0.429,False
+delta_LHIPPOC__delta_RMIDTEMP,2,-0.08974472413984069,1.0,lower_in_pMCI,0.429,0.429,False
